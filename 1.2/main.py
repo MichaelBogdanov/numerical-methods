@@ -6,7 +6,7 @@ import math
 
 
 def f(x: float) -> float:
-    return x ** 3 + 2 * x - 2
+    return x ** 3 + 2 * x - 2  # f(x)
 
 
 if __name__ == "__main__":
