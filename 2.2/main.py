@@ -69,5 +69,5 @@ if __name__ == "__main__":
 
     # Вывод ответа
     print("Решение системы:")
-    for i in range(N): 
+    for i in range(N):
         print(f"x{i + 1} = {x[i]}")
